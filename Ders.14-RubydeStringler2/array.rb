@@ -1,0 +1,1 @@
+puts %w{Benim adim Onurdur bro}
